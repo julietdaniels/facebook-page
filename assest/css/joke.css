@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "poppins", san-serif;
+}
+
+.sect {
+  background-color: rgb(241, 239, 239);
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.sect .new {
+  width: 100%;
+  display: flex;
+}
+
+.sect .new .facebook {
+  font-size: 40px;
+  color: rgb(5, 170, 224);
+}
+
+.new .search {
+  margin-bottom: 10px;
+  padding: 15px;
+  border: 10px;
+  padding-right: 50px;
+  background-color: rgb(226, 220, 220);
+  color: rgb(49, 48, 48);
+  border-radius: 75px;
+}
+
+.sect .new .first {
+  padding-left: 10%;
+}
+.sect .new .first #house{
+   font-size: 20px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 10px;
+   color: rgb(5, 170, 224);
+
+}
+
+.sect .new .first #play{
+  font-size: 20px;
+  margin-left: 30px;
+  padding-right: 40px;
+  padding-top: 10px;
+  color: rgb(107, 103, 103);
+
+}
+
+.sect .second {
+  padding-left: 27%;
+}
+
+.sect .new .second #gap{
+  font-size: 20px;
+  margin-left: 15px;
+  padding-top: 10px;
+  color: rgb(14, 13, 13);
+
+}
+
+.sect .new .second img{
+  width: 40px;
+  height: 40px;
+  border-radius: 200%;
+}
+
+.pin {
+  background-color: rgb(226, 217, 217);
+  width: 100%;
+  height: 50%;
+  /* background-color: rgb(14, 13, 13); */
+
+
+}
+
+.pin .container {
+  width: 100%;
+  display: flex;
+  height: 100%;
+  background-color: rgb(116, 139, 139);
+}
+
+.pin .container .side {
+   width: 15%;
+   height: 20%;
+   padding-left: 10px;
+   background-color: rgb(250, 250, 250);
+   border: 1px solid  rgb(250, 250, 250);
+   border-top: none;
+   border-bottom: none;
+   padding-top: 20px;
+}
+
+.side .nine img {
+  width: 30px;
+  height: 40px;
+  border-radius: 200%;
+}
+
+.side .two {
+  color: rgb(107, 103, 103);
+  padding-top: 20px;
+
+}
+
+.side .two #big {
+  color: rgb(5, 170, 224);
+  font-size: 20px ;
+  padding-right: 5px;
+}
+
+.side .two #flag {
+  color:  darkorange;
+  font-size: 20px;
+  padding-right: 5px;
+}
+
+.side .two #events {
+  font-size: 20px;
+  padding-right: 5px;
+  color: rgb(204, 56, 56);
+}
+
+.side #down {
+  padding-right: 5px;
+}
+
+.side .line {
+  border-bottom: 1px solid #919294;
+  margin: 20px 20px;
+  display: flex;
+  align-items: center;
+  width: 90%;
+  margin-left: 0px;
+} 
+
+.side .known {
+ padding-bottom: 5px;
+ padding-right: 5px;
+ color: rgb(107, 103, 103);
+}
+
+.side .known .mood img {
+  padding-top: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 200%;
+}
+
+
+.container .bin-2 {
+  width: 50%;
+}
